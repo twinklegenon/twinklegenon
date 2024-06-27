@@ -18,5 +18,5 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=twinklegenon&show_icons=true&locale=en&theme=dark" alt="twinklegenon" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=twinklegenon&show_icons=true&locale=en&layout=compact&theme=dark" alt="twinklegenon" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=twinklegenon&show_icons=true&locale=en&layout=compact&theme=dark" alt="twinklegenon" /></p>
 
