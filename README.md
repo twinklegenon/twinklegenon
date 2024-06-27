@@ -2,9 +2,9 @@
 <h3 align="center">A passionate system/cloud engineer</h3>
 <img align ="right" alt="Coding" width="400" src="https://64.media.tumblr.com/6cce1d9b8f3a2e4a54330d80811fa921/tumblr_mtbppdZOrE1qze3hdo1_500.gif"
 
-- 🌱 I’m currently learning **AWS cloud**
+🌱 I’m currently learning **AWS cloud**
 
-- 📫 How to reach me **twinklegenon7@gmail.com**
+📫 How to reach me **twinklegenon7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
