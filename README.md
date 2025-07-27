@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" />
 
-🌱 I’m currently learning **AWS Cloud ☁️**  
+🌱 I’m currently learning **AWS & GCP Cloud ☁️**  
 📫 How to reach me: **twinklegenon7@gmail.com**  
 ⚡ Fun fact: **My elective track is System Administration**
 
