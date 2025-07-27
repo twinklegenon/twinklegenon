@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Twinkle ⭐⭐</h1>
+<h1 align="center">Hi, I'm Twinkle ⭐👋</h1>
 <h3 align="center">Cloud Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" />
